@@ -1,0 +1,8 @@
+server:
+  port: 9191
+aws:
+  sns:
+    topic:
+      arn: arn:aws:sns:us-east-1:264271930585:Mysns
+      subscription:
+        endpoint: nitinbabu2323@gmail.com
